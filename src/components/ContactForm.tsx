@@ -96,7 +96,7 @@ const ContactForm = () => {
         submitted_at: new Date().toISOString(),
       };
 
-      const response = await fetch('https://sheetdb.io/api/v1/kz7yi3363tsnq', {
+      const response = await fetch('https://sheetdb.io/api/v1/fulngcpv5jkvy', {
         method: 'POST',
         headers: {
           'Accept': 'application/json',
